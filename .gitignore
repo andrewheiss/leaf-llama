@@ -1,0 +1,12 @@
+# R stuff
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Quarto stuff
+/.quarto/
+/.luarc.json
+**/*_cache/*
+_site/
+manuscript/output/
