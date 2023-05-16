@@ -42,9 +42,8 @@ environment.
 ### 🍁🦙: Note on “leaf llama” project name
 
 Because project titles change all the time with revisions, rewriting,
-and peer review, we used [**codename**](http://svmiller.com/codename/)
-to generate an
-[Ubuntu-style](https://wiki.ubuntu.com/DevelopmentCodeNames)
+and peer review, we used [{codename}](http://svmiller.com/codename/) to
+generate an [Ubuntu-style](https://wiki.ubuntu.com/DevelopmentCodeNames)
 internal-to-us project name that won’t change.
 
 ``` r
